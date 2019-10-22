@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(248, 223, 227);
+}
+
+.page {
+    margin: 0px;
+    padding: 0px;;
+    max-height: 100vh;
+    box-sizing: border-box;
+    /* background-color: rgb(248, 223, 227); */
+}
+
+ .left {
+    min-height: 85vh;
+    width: 50%;
+/*    background-color: rgb(248, 223, 227);*/
+    /* background-color: cyan;  */
+    float: left;
+  }
+  
+  .right {
+    min-height: 85vh;
+    width: 50%;
+/*    background-color: rgb(248, 223, 227);*/
+    /* background-color: orange;  */
+    float: right;
+  }
+
+  .footer{
+    clear: both;
+    height: 10vh;
+    background-color: lightyellow;
+}
+
+/* .img{
+    width: 75%;
+    display: block;
+    margin-top: 15vh;
+    margin-left: 10vw;
+}  */
+
+/* .div-wrapper{
+    position: relative;
+    
+} */
+
+/* .text_wrapper{
+    margin-top: 40%;
+} */
